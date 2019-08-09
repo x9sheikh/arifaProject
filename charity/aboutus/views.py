@@ -3,4 +3,7 @@ from django.http import *
 
 # Create your views here.
 def aboutus_view(request):
-    return HttpResponse('i am aboutus')
+    context = {
+
+    }
+    return render(request, 'aboutus.html', context=context)
