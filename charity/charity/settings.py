@@ -56,7 +56,7 @@ ROOT_URLCONF = 'charity.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['/home/arifa/Desktop/arifaProject/charity/templates/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
