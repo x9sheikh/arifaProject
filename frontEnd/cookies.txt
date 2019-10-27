@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.zdassets.com	TRUE	/	FALSE	1999999999	__cfduid	dea7eb5bb6c294254eca2c43b6311e0f41564160034
-
